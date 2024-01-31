@@ -8,3 +8,14 @@ The car business in Kenya is situated at the confluence of urbanisation, economi
 
 ## Problem Statetment
 The local company must optimise its price based on multiple independent variables due to the intricate dynamics of the Kenyan vehicle market. The principal aim is to create a prediction model that can precisely approximate automobile prices by comprehending the correlation between car characteristics and pricing, so giving the enterprise a tactical edge in a cutthroat industry.
+
+### Objectives
+- Identify significant variables that play a role in predicting the price of a car.
+- Assess the effectiveness of these variables in describing the price of a car.
+
+## Dataset
+For this analysis, we utilized the [Car Price Dataset](link-to-dataset) available from kaggle. The dataset contains information on various car features and their corresponding prices.
+
+
+
+  
