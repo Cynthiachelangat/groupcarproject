@@ -1,4 +1,4 @@
-# CAR PRICE PREDICTION REGRESSION ANALYSIS
+# CAR PRICE PREDICTION REGRESSION ANALYSIS PROJECT
 
 ## Introduction
 The objective of this project is to predict car prices using linear regression and hypothesis testing. By analyzing the factors that influence car prices, we aim to build a predictive model that can estimate the price of a car based on its features and specifications.
@@ -14,7 +14,7 @@ The local company must optimise its price based on multiple independent variable
 - Assess the effectiveness of these variables in describing the price of a car.
 
 ## Dataset
-For this analysis, we utilized the [Car Price Dataset](link-to-dataset) available from kaggle. The dataset contains information on various car features and their corresponding prices.
+For this analysis, we utilized the [Car Price Dataset](data/JijiCarsRawDataFinal.xlsx) available from kaggle. The dataset contains information on various car features and their corresponding prices.
 
 
 
