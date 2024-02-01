@@ -1,4 +1,4 @@
-# CAR PRICE PREDICTION REGRESSION ANALYSIS
+# CAR PRICE PREDICTION REGRESSION ANALYSIS PROJECT
 
 ## Introduction
 The objective of this project is to predict car prices using linear regression and hypothesis testing. By analyzing the factors that influence car prices, we aim to build a predictive model that can estimate the price of a car based on its features and specifications.
@@ -14,7 +14,24 @@ The local company must optimise its price based on multiple independent variable
 - Assess the effectiveness of these variables in describing the price of a car.
 
 ## Dataset
-For this analysis, we utilized the [Car Price Dataset](link-to-dataset) available from kaggle. The dataset contains information on various car features and their corresponding prices.
+For this analysis, we utilized the [Car Price Dataset](data/JijiCarsRawDataFinal.xlsx) available from kaggle. The dataset contains information on various car features and their corresponding prices.
+
+## Contents of The Notebook
+**1. Data Understanding and Preprocessing**
+Initializes essential libraries, loads a cleaned car dataset, and outlines key features like make, year of manufacture, color, usage status, transmission type, mileage, city, and price. The 'Used' column specifies whether the car is locally used, foreign used, or brand new, with 'Price' being the target variable.
+
+**2. Exploratory Data Analysis**
+Conducts univariate analysis on categorical variables (make, color, used status, transmission, and city) using count plots. Analyzes the distribution of the target variable 'Price' through count and density plots, assessing skewness and kurtosis.
+
+**3. Bivariate and Multivariate Analysis**
+Examines the relationship between 'Price' and independent features, employing the Chi-Square Statistic for categorical variables. Prepares data for regression by encoding categorical variables and performing a log transformation on the 'Price' variable.
+
+**4. Statistical Tests and Linear Regression**
+Applies ANOVA tests to evaluate differences in mean 'Price' across car makes, colors, and mileage categories. Utilizes Pearson's Correlation Coefficient to assess the linear relationship between car color and prices. Implements a multiple linear regression model for car price prediction, evaluating performance with the Root Mean Squared Error (RMSE).
+
+
+
+
 
 
 
