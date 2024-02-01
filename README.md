@@ -3,6 +3,16 @@
 ## Introduction
 The objective of this project is to predict car prices using linear regression and hypothesis testing. By analyzing the factors that influence car prices, we aim to build a predictive model that can estimate the price of a car based on its features and specifications.
 
+## Student Names
+1. Jimmy Mumo 
+2. Cynthia Chelangat
+3. Joyce Chepngeno
+4. Josphat Kimani
+5. Mahmoud Yuna
+6. Cynthia Amondi
+7. Phyllis Kiruki
+8. Neville Ngenzi
+
 ## Business Understanding
 The car business in Kenya is situated at the confluence of urbanisation, economic expansion, and changing customer tastes. With more people living in cities and more people needing cars, the local automaker wants to use data to identify opportunities in the market and solve problems. In partnership with a car advisory service, the business looks for in-depth understanding of the various aspects that affect car costs.
 
